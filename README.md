@@ -1,4 +1,4 @@
-# AOOP_Design_Principles
+# Advanced Object Oriented Programming Design Principles and Patterns
 
 ## File Structure 
 
